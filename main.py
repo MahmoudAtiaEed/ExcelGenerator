@@ -1,4 +1,4 @@
-from excel_generator import *
+from app.excel_generator import *
 import streamlit as st
 
 header = st.container()
